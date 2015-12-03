@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectName": "Hoegh VMS",
+      "clientName": "Hoegh  Autoliners",
+      "hasMgrApproval": "1",
+      "teamLead": "Sriram R"
+    },
+    {
+      "projectName": "Amex mApply",
+      "clientName": "Amex",
+      "hasMgrApproval": 1,
+      "teamLead": "Lakshmi Narayana",
+      "id": 2
+    },
+    {
+      "projectName": "Scion Swap",
+      "clientName": "tyota",
+      "hasMgrApproval": 2,
+      "teamLead": "Kalyan",
+      "id": 3
+    },
+    {
+      "projectName": "Hoizon",
+      "clientName": "Hrizon Health care",
+      "hasMgrApproval": 2,
+      "teamLead": "Durga",
+      "id": 4
+    },
+    {
+      "projectName": "melange",
+      "clientName": "CTS",
+      "hasMgrApproval": 2,
+      "teamLead": "sumanth",
+      "id": 5
+    },
+    {
+      "projectName": "Gakaxy Ace",
+      "clientName": "Samsung",
+      "teamLead": "Sriram",
+      "id": 6
+    },
+    {
+      "projectName": "Uma",
+      "clientName": "Uma",
+      "teamLead": "Uma",
+      "id": 10
+    },
+    {
+      "projectName": "IDA",
+      "clientName": "Sgp Govt",
+      "teamLead": "Seng Hee",
+      "id": 11
+    },
+    {
+      "projectName": "FisherPrice",
+      "clientName": "Phillips",
+      "teamLead": "Srikanth",
+      "id": 12
+    },
+    {
+      "projectName": 1,
+      "clientName": 1,
+      "teamLead": 1,
+      "id": 13
+    },
+    {
+      "projectName": 2,
+      "clientName": 2,
+      "teamLead": 2,
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+}

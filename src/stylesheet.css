@@ -1,0 +1,11 @@
+body {
+	background-color: green;
+}
+
+*{
+	color: red;
+}
+
+.btn {
+	margin-left: 0.25em;
+}
